@@ -5,6 +5,11 @@ An end-to-end business intelligence system built for AdventureWorks, a multinati
 **Tools used:** Power BI Desktop · DAX · Power Query (M) · Data Modeling · AI Visuals (Q&A, Decomposition Tree, Key Influencers)
 
 🎥 **Video walkthrough:** 
+<p align="center">
+  <video src="https://github.com/AyemaAmir/AI-Powered-Retail-Analytics-Dashboard-Power-BI/raw/main/AI-Powered%20Retail%20Analytics%20Dashboard%202026-07-15%2011-30-05.mp4" width="80%" controls>
+    Your browser does not support the video tag.
+  </video>
+</p>
 
 ---
 
