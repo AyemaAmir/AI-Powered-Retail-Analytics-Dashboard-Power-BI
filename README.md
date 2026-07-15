@@ -5,7 +5,7 @@ An end-to-end business intelligence system built for AdventureWorks, a multinati
 **Tools used:** Power BI Desktop · DAX · Power Query (M) · Data Modeling · AI Visuals (Q&A, Decomposition Tree, Key Influencers)
 
 🎥 **Video walkthrough:** 
-https://github.com/user-attachments/assets/5332af5e-ae21-4ab5-8aa1-51e569359d6e
+<video src="https://github.com/user-attachments/assets/5332af5e-ae21-4ab5-8aa1-51e569359d6e" controls width="100%"></video>
 
 ---
 
